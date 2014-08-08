@@ -1,0 +1,4 @@
+puppetmaster
+============
+
+Master puppet
